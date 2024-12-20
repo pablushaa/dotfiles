@@ -1,4 +1,0 @@
-clear
-fastfetch
-echo ""
-zsh

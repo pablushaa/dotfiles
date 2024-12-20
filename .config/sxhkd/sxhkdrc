@@ -8,7 +8,7 @@ XF86AudioLowerVolume
 
 # terminal emulator
 super + q
-	kitty ~/.config/kitty/on_launch.sh
+	kitty
 
 super + shift + s
 	bash /home/pablusha/.config/sxhkd/screen.sh
