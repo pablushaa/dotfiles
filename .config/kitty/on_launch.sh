@@ -1,0 +1,4 @@
+clear
+fastfetch
+echo ""
+zsh
