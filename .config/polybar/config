@@ -27,10 +27,10 @@ disabled = #FFFFFF
 
 [bar/example]
 width = 99%
-height = 22pt
+height = 20pt
 radius = 5px
 offset-x = 0.5%
-offset-y = 6px
+offset-y = 4px
 
 ; dpi = 96
 
@@ -50,7 +50,7 @@ module-margin = 1
 separator = |
 separator-foreground = ${colors.disabled}
 
-font-0 = monospace:size=11;3
+font-0 = monospace:size=10;3
 
 modules-left = xworkspaces
 modules-right = pulseaudio xkeyboard memory cpu date systray
