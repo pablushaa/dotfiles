@@ -1,5 +1,0 @@
-"bspc desktop -f next"
-	b:9
-
-"bspc desktop -f prev"
-	b:8

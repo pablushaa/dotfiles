@@ -1,0 +1,26 @@
+window {
+    font-size: 18px;
+    font-family: FontAwesome, "Droid Sans Mono", monospace;
+    font-weight: 700;
+    background-color: rgba(11, 27, 34, 0.8);
+    border: 2px solid #8888AA;
+    border-radius: 8px;
+}
+
+#entry:selected {
+    background: linear-gradient(45deg, #8888AA, #CCCCEE);
+}
+
+#entry {
+    padding-left: 10px;
+}
+
+#img {
+    margin-right: 10px;
+    max-width: 10px;
+}
+
+#input {
+    background-color: transparent;
+    border: none;
+}

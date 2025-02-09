@@ -4,8 +4,8 @@
 
 - **Run this thing**
 ```sh
-$ sudo pacman -Syu bspwm fastfetch kitty polybar rofi sxhkd zsh-autosuggestions zsh-syntax-highlighting
-$ yay -S picom-simpleanims-next-git
+$ sudo pacman -Syu hyprland hyprpaper fastfetch kitty waybar wofi zsh-autosuggestions zsh-syntax-highlighting
+$ yay -S cava
 ```
 - **Download and unzip** archive to your ```home``` directory
 - **Import** vscode.code-profile to your VS Code
