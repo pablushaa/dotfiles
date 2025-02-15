@@ -1,5 +1,6 @@
 rm -r config
 mkdir config
+cp ~/lol.png .
 cp ~/.zshrc .
 cp -r ~/.config/waybar config
 cp -r ~/.config/hypr config

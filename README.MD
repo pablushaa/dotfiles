@@ -9,4 +9,5 @@ $ yay -S cava
 ```
 - **Download and unzip** archive to your ```home``` directory
 - **Import** vscode.code-profile to your VS Code
+- **Install** [this zsh theme](https://github.com/romkatv/powerlevel10k)
 - ✅ **Perfect**
